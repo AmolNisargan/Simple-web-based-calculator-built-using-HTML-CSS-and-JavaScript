@@ -55,4 +55,4 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 Your Name - nisargan.ap@gamil.com
 
-Project Link: https://github.com/AmolNisargan/Simple-web-based-calculator-built-using-HTML-CSS-and-JavaScript.git
+Project Link: [https://github.com/AmolNisargan/Simple-web-based-calculator-built-using-HTML-CSS-and-JavaScript.git](https://github.com/AmolNisargan/Simple-web-based-calculator-built-using-HTML-CSS-and-JavaScript)
